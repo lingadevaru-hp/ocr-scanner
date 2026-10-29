@@ -1,0 +1,6 @@
+cd backend
+
+python -m venv venv
+
+.\venv\scripts\Activate.ps1
+
